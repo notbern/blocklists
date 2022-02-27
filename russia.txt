@@ -1,3 +1,4 @@
+||bezformata.com^
 ||evraz.com^
 ||gazprom.com^
 ||gazprombank.com^
@@ -7,10 +8,14 @@
 ||lukoil.com^
 ||mechel.com^
 ||metalloinvest.com^
+||nangs.org^
 ||nlmk.com^
 ||nord-stream.com^
+||nornickel.com^
+||nlmk.com^
 ||ooosgm.com^
 ||phosagro.com^
+||polymetalinternational.com^
 ||polyus.com^
 ||rosneft.com^
 ||rt.com^
@@ -28,3 +33,4 @@
 ||uralkali.com^
 ||vtb.com^
 ||xn--p1ai^
+||yaplakal.com^
